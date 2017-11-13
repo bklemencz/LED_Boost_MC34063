@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 34063
+D 1.5A step up/down/inverting switching regulator
+F regulator/mc34063.pdf
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A step up/down/inverting switching regulator
+F regulator/mc34063.pdf
+$ENDCMP
+#
+#End Doc Library

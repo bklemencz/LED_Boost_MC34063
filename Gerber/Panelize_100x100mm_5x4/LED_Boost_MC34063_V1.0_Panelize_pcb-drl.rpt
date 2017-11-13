@@ -1,0 +1,23 @@
+Drill report for C:/Users/t9569bk/Documents/KiCad/LED_Boost_MC34063/Gerber/Panelize_100x100mm_5x4/LED_Boost_MC34063_V1.0_Panelize_pcb.kicad_pcb
+Created on 11/13/2017 5:19:15 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'C:LED_Boost_MC34063_V1.0_Panelize_pcb.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (120 holes)
+    T2  1.00mm  0.039"  (120 holes)
+
+    Total plated holes count 240
+
+
+Drill file 'C:LED_Boost_MC34063_V1.0_Panelize_pcb-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
